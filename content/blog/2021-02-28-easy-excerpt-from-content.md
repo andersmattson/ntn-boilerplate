@@ -1,5 +1,5 @@
 ---
-title: Easy excerpt from content
+title: Easy excerpt from content with tag
 ---
 
 You can add an excerpt easily by writing `<!--MORE-->` in lowercase in the content.

@@ -1,5 +1,5 @@
 ---
-title: Time to add your own content
+title: Time to add my own content
 description: Remove all of the .md-files in the /content folder and go at it!
 ---
 
